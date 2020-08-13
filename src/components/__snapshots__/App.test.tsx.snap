@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders properly 1`] = `
+<DocumentFragment>
+  <div>
+    <h2>
+      React TS skeleton
+    </h2>
+  </div>
+</DocumentFragment>
+`;
